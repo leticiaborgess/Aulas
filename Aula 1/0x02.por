@@ -9,6 +9,7 @@ programa
 		leia(num)
 
 		escreva("O antecessor é: ", num - 1, " e o sucessor é: ", num + 1) 
+		wjeiow
 	}
 }
 /* $$$ Portugol Studio $$$ 
